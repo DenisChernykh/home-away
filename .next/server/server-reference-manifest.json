@@ -1,0 +1,236 @@
+{
+  "node": {
+    "073165eebc1885e68c0bb1ba2e0d771b8b1d4ceb": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "0c480d306fb6cdbff749684856467e6c427139b8": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "0e62124bab0a920f9138adff219c7a03207111ac": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "17e14d5728e0658c44c035ce3c739ec5f3606e42": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "3589a450f6dcff948a13628b963ff27c58eeaffc": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "37bccdb07c7b5e0f13d3e110d493da2326f6d1d1": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "44d3652abaa7c979d500403eebe729c383137624": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "5665494305c9b2c9b82b83f4b6500c6143f3219e": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "6017458885421611f4eda6f540355a2e6f69bc68": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "65cc2955a30cd61a5576f934be6280beb3fc4e7a": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "70f1d70113d969ce9d1d3cfa59c322539ef312e9": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "8aaca6400d3dd48fc4a44eb194c7b32056541236": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "8c255deb9de873c837c48985bbf874fafb0d9cd8": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "99af1c1f278c5e7480c253bd98d35660803a2539": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "a1d9a841261c9a411d94a6f49c2659c96d1bc99a": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "a78ac256064f2076b0b56f3e01ad15f592eee8ce": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "b9a67610b80e3a081e373aa827aa062e8c070e1e": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "d0f42581d602ef278e813e5d2e54a1824a47914b": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "d300fafd263da8350843fe2f491b8ccf26c9cf97": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "d5c5d6d0eb66fb95ebcda5b1ef3354f02baddc7b": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "e3bdfaf63f71ce9699473b3cee0efbdbb72ef0eb": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "f70812b50582bfe3a3bca6603f512e9cfd915f54": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Futils%2Factions.ts%22%2C%5B%22toggleFavoriteAction%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_7%22%2C%22updateProfileAction%22%2C%22fetchProperties%22%2C%22updateProfileImageAction%22%2C%22createPropertyAction%22%2C%22%24%24ACTION_1%22%2C%22fetchPropertyDetails%22%2C%22fetchFavorites%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_5%22%2C%22fetchProfile%22%2C%22%24%24ACTION_2%22%2C%22fetchFavoriteId%22%2C%22fetchProfileImage%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_9%22%2C%22createProfileAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/properties/[id]/page": "rsc"
+      }
+    },
+    "e5d014d5030f68230151ef8624b1240b09261008": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/properties/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdenischernykh%2FDesktop%2Fweb%2Ffrontend%2Flearning%2Freact-learning%2Fmastering-nextjs-build-airbnb-clone-from-scratch%2Fhome-away%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/properties/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "LxN7XnTekaFn1mTieyyd8DOjxbBHIZNMDLz73BheN6Y="
+}
