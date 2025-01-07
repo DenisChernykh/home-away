@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import DarkMode from "./DarkMode";
 import LinksDropdown from "./LinksDropdown";
 import Logo from "./Logo";
@@ -8,7 +9,9 @@ function Navbar() {
     <nav className="border-b">
       <div className="container flex flex-col flex-wrap gap-4 py-8 sm:flex-row sm:items-center sm:justify-between">
         <Logo />
-        <NavSearch />
+        <Suspense fallback={<div>Loading...</div>}>
+          <NavSearch />
+        </Suspense>
         <div className="flex items-center gap-4">
           <DarkMode />
           <LinksDropdown />
