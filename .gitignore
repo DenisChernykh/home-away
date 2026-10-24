@@ -1,5 +1,12 @@
 node_modules
 .env*.local
 .env
-README.md
 .next
+.DS_Store
+node_modules/
+.pnpm-store/
+.env.local
+.env.production
+.dev.vars
+*.log
+!*.example
